@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.item {
+  width: 50%;
+}
+.link {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  height: 85%;
+  border-radius: 12px;
+  border: 1px solid #ffffff;
+  padding-left: 7px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 7px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.item-name {
+  font-size: 28px;
+  text-decoration: none;
+  color: white;
+}
+.ipl-item-logo {
+  height: 80px;
+}
